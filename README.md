@@ -1,2 +1,2 @@
-Erster Tag der Challenge
-Ich möchte in JAVA tief gehen
+erster tag 
+und ich möchte in java tief gehen
