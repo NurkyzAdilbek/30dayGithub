@@ -1,0 +1,17 @@
+Index: README.md
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>erster tag \r\nund ich möchte in java tief gehen
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/README.md b/README.md
+--- a/README.md	(revision 2d2b57ba42ecf44b11ef55ded604309724f34aec)
++++ b/README.md	(date 1739381668830)
+@@ -1,2 +1,4 @@
+ erster tag 
+-und ich möchte in java tief gehen
+\ No newline at end of file
++und ich möchte in java tief gehen
++
++
