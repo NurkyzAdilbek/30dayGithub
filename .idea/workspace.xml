@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="329dfa4c-0645-4e5d-a2a8-88738da15656" name="Changes" comment="day14">
-      <change afterPath="$PROJECT_DIR$/src/day15/Day15.java" afterDir="false" />
+    <list default="true" id="329dfa4c-0645-4e5d-a2a8-88738da15656" name="Changes" comment="day15">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,29 +51,30 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Collections.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Person.executor&quot;: &quot;Run&quot;,
-    &quot;Application.day5.executor&quot;: &quot;Run&quot;,
-    &quot;Application.day7.executor&quot;: &quot;Run&quot;,
-    &quot;Application.day8.executor&quot;: &quot;Run&quot;,
-    &quot;Application.day9.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/adilb/30dayGithub/src&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/adilb/30dayGithub/src/Main.java&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Collections.executor": "Run",
+    "Application.Day15.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.Person.executor": "Run",
+    "Application.day5.executor": "Run",
+    "Application.day7.executor": "Run",
+    "Application.day8.executor": "Run",
+    "Application.day9.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/adilb/30dayGithub/src",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/adilb/30dayGithub/src/Main.java",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\adilb\30dayGithub\src" />
@@ -122,7 +122,7 @@
       <workItem from="1740259816576" duration="988000" />
       <workItem from="1740349030986" duration="990000" />
       <workItem from="1740424265708" duration="1061000" />
-      <workItem from="1740519872480" duration="1215000" />
+      <workItem from="1740519872480" duration="2006000" />
     </task>
     <task id="LOCAL-00001" summary="erster commit">
       <option name="closed" value="true" />
@@ -268,7 +268,15 @@
       <option name="project" value="LOCAL" />
       <updated>1740425030993</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="day15">
+      <option name="closed" value="true" />
+      <created>1740521663485</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1740521663485</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -300,6 +308,7 @@
     <MESSAGE value="day12" />
     <MESSAGE value="day13" />
     <MESSAGE value="day14" />
-    <option name="LAST_COMMIT_MESSAGE" value="day14" />
+    <MESSAGE value="day15" />
+    <option name="LAST_COMMIT_MESSAGE" value="day15" />
   </component>
 </project>
