@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="329dfa4c-0645-4e5d-a2a8-88738da15656" name="Changes" comment="day17">
-      <change afterPath="$PROJECT_DIR$/src/Day18.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="329dfa4c-0645-4e5d-a2a8-88738da15656" name="Changes" comment="day18" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -126,7 +123,7 @@
       <workItem from="1740519872480" duration="2006000" />
       <workItem from="1740610713956" duration="369000" />
       <workItem from="1740699513023" duration="741000" />
-      <workItem from="1740781475481" duration="706000" />
+      <workItem from="1740781475481" duration="835000" />
     </task>
     <task id="LOCAL-00001" summary="erster commit">
       <option name="closed" value="true" />
@@ -304,7 +301,15 @@
       <option name="project" value="LOCAL" />
       <updated>1740699639582</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="day18">
+      <option name="closed" value="true" />
+      <created>1740782383098</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1740782383098</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -339,6 +344,7 @@
     <MESSAGE value="day15" />
     <MESSAGE value="day16" />
     <MESSAGE value="day17" />
-    <option name="LAST_COMMIT_MESSAGE" value="day17" />
+    <MESSAGE value="day18" />
+    <option name="LAST_COMMIT_MESSAGE" value="day18" />
   </component>
 </project>
