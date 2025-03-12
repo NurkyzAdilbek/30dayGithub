@@ -4,7 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="329dfa4c-0645-4e5d-a2a8-88738da15656" name="Changes" comment="day20">
+    <list default="true" id="329dfa4c-0645-4e5d-a2a8-88738da15656" name="Changes" comment="commit">
+      <change afterPath="$PROJECT_DIR$/src/day30/DataBaseStudent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day30/DataBaseTeacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day30/Gender.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day30/Group.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day30/GroupDB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day30/ProgLanguage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day30/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day30/StudentMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day30/Teacher.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -20,6 +29,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -129,6 +139,8 @@
       <workItem from="1740870521417" duration="300000" />
       <workItem from="1740955532921" duration="965000" />
       <workItem from="1741042170042" duration="2361000" />
+      <workItem from="1741551410527" duration="811000" />
+      <workItem from="1741807974114" duration="3591000" />
     </task>
     <task id="LOCAL-00001" summary="erster commit">
       <option name="closed" value="true" />
@@ -330,7 +342,15 @@
       <option name="project" value="LOCAL" />
       <updated>1740956725402</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="commit">
+      <option name="closed" value="true" />
+      <created>1741551571767</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1741551571767</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -368,6 +388,7 @@
     <MESSAGE value="day18" />
     <MESSAGE value="day19" />
     <MESSAGE value="day20" />
-    <option name="LAST_COMMIT_MESSAGE" value="day20" />
+    <MESSAGE value="commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit" />
   </component>
 </project>
